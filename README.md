@@ -11,7 +11,7 @@
 - Check in new console if script performs as required
 
 ## Output
-> Source will be parsed out with a `Invoke-Expression` line up top, this line contains a BASE64 version of all the function/alias dependendencies for this file
+> Source will be parsed out with a `Invoke-Expression` line up top, this line contains a BASE64 version of all the function/alias dependendencies for the input file
 
 ## Features
 >
